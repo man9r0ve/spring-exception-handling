@@ -4,4 +4,10 @@ Content-Type: application/json
 
 {}
 
+### student GET
+GET http://localhost:8080/students/1
+Accept: application/json
+Accept-Language: KO
+
 ###
+
